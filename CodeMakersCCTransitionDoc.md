@@ -13,8 +13,8 @@
     2. [ETB 234](#etb-234)
     3. [Everything Else](#everything-else)
 4. [Retrospective](#retrospective)
-    1. [Codemakers 5/6](#codemakers-5/6)
-    2. [Codemakers 7/8](#codemakers-7/8)
+    1. [Codemakers 5/6](#codemakers-56)
+    2. [Codemakers 7/8](#codemakers-78)
 5. [Mentors](#mentors)
 6. [Closing Remarks](#closing-remarks)
 # Responsibilities
