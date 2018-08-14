@@ -45,10 +45,10 @@ Write ups will be the longest part of making your projects. Commenting your code
 # Software installation
 This is probably the biggest part of getting camp to run smoothly. Ensure that you and all the CCs are on the same page as to what software is getting installed where and what will happen each week -"at the end of each week 219a gets fully reset" for instance. Try to do this as early as possible, it may not be possible to do during the year but if you can find a way to do it during the year then by all means. 
 
-## 219a
+### 219a
 For now until they hire someone new your contact is [John Colenbrander](https://www.eng.mcmaster.ca/mech/people/staff#john-colenbrander), he will work with you for 219a software or he will point you in the direction of the person who will help you. The thing is software can be downloaded on these computers, but most installations require the admin password. The loophole is that portable versions of software will run find. I highly recommend that you try to find portable editions of the software you need here.
 
-## ETB 234
+### ETB 234
     
 For ETB you don't have as much flexibility. Your contact is [Omar Danta](https://www.eng.mcmaster.ca/sept/people/staff#omar-danta). If you want any software installed speak with him.
 
