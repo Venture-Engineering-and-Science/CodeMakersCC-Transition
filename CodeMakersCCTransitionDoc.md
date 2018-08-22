@@ -1,6 +1,6 @@
 # Codemakers Curriculum Coordinator Transition Document
 ## Table of Contents
-1. [Responsibilities](#Responsibilities)
+1. [Responsibilities](#responsibilities)
     1. [During the Year](#during-the-year)
     2. [During the summer](#during-the-summer) 
 2. [Project Creation Tips and Tricks](#project-creation-tips-and-tricks)
